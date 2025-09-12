@@ -3,3 +3,5 @@ HouseTwenty,Rocket,0.9664,22.77
 ACSF1,Rocket,0.89,21.0
 ACSF1,Catch22,0.84,20.51
 HouseTwenty,Catch22,0.958,0.82
+PigAirwayPressure,Rocket,0.3942,46.53
+PigAirwayPressure,Catch22,0.4856,1.24
